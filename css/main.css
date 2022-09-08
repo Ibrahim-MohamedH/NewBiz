@@ -14,14 +14,13 @@ header{
 header .container .navbar .navbar-brand img{
   width: 150px;
 }
-header .container .navbar .collapse .nav-link{
+header .container .navbar .nav-link{
   color: rgb(0,66,137);
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   transition: all 0.5s;
   padding: 10px 15px;
   font-size: 15px;
-  
 }
 
 header .container .navbar .collapse .nav-link:hover{
